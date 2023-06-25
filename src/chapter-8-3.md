@@ -1,5 +1,4 @@
-Chapter 7: Measuring Success: Using Data to Make Informed Decisions About Future Problem Transformation Initiatives
-===================================================================================================================
+# Using Data to Make Informed Decisions About Future Problem Transformation Initiatives
 
 Measuring success is critical in any problem-solving initiative. Without data, it's challenging to know whether a particular approach was effective or whether changes are necessary for the future. In this chapter, we will explore how organizations can use data to make informed decisions about future problem transformation initiatives.
 

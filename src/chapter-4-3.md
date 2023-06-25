@@ -1,5 +1,4 @@
-Chapter 3: Design Thinking Approach: Overcoming Common Challenges with Design Thinking
-======================================================================================
+# Overcoming Common Challenges with Design Thinking
 
 Design thinking is a powerful problem-solving approach that can help individuals and organizations overcome common challenges when transforming problems into opportunities. In this chapter, we will explore some of these challenges and how design thinking can help overcome them.
 

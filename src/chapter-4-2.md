@@ -1,5 +1,4 @@
-Chapter 3: Design Thinking Approach: Techniques for Implementing Design Thinking in Problem Transformation
-==========================================================================================================
+# Techniques for Implementing Design Thinking in Problem Transformation
 
 Design thinking is a powerful problem-solving approach that can help individuals and organizations transform problems into opportunities successfully. In this chapter, we will explore some key techniques for implementing design thinking in problem transformation.
 

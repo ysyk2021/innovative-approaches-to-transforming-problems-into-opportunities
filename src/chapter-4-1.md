@@ -1,5 +1,4 @@
-Chapter 3: Design Thinking Approach: An Overview of Design Thinking Approach
-============================================================================
+# An Overview of Design Thinking Approach
 
 Design thinking is a human-centered problem-solving approach that emphasizes empathy, creativity, collaboration, and experimentation. It was first popularized by the design consultancy firm, IDEO, and has since been adopted by individuals and organizations across a range of industries.
 

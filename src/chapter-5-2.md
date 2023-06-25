@@ -1,5 +1,4 @@
-Chapter 4: Lean Startup Methodology: Techniques for Implementing Lean Startup Methodology in Problem Transformation
-===================================================================================================================
+# Techniques for Implementing Lean Startup Methodology in Problem Transformation
 
 The Lean Startup methodology is a powerful approach to creating new products and services. In this chapter, we will explore some techniques for implementing the Lean Startup methodology in problem transformation.
 

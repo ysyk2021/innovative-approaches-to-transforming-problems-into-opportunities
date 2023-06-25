@@ -1,5 +1,4 @@
-Chapter 6: Collaborative Problem-Solving: The Benefits of Collaborative Problem-Solving
-=======================================================================================
+# The Benefits of Collaborative Problem-Solving
 
 Collaborative problem-solving can be a powerful methodology for tackling complex problems. In this section, we will explore some of the benefits of collaborative problem-solving.
 
