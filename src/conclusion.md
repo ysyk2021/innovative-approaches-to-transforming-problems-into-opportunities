@@ -1,5 +1,8 @@
 # Conclusion
 
+Conclusion
+==========
+
 In this book, we explored innovative approaches to transforming problems into opportunities. From design thinking to agile problem-solving to collaborative problem-solving, we examined a range of methodologies that can help organizations tackle complex problems and create effective solutions.
 
 Recap of the Book's Content and Key Takeaways
