@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [Explanation of the book's purpose and goals](chapter-1-1.md)
-  - [Overview of the contents and structure of the book](chapter-1-2.md)
 - [Chapter 1: Understanding Problem Transformation](chapter-2.md)
   - [Defining problem transformation](chapter-2-1.md)
   - [The benefits of innovative approaches to problem-solving](chapter-2-2.md)
