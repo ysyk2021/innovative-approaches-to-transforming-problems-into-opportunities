@@ -1,5 +1,3 @@
-Chapter 3: Design Thinking Approach
-===================================
 
 Design thinking is a human-centered problem-solving approach that emphasizes empathy, creativity, collaboration, and experimentation. In this chapter, we will explore an overview of design thinking approach, techniques for implementing it in problem transformation, and how to overcome common challenges.
 

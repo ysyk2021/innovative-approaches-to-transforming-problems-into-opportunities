@@ -1,5 +1,3 @@
-Chapter 2: Creative Problem-Solving Techniques
-==============================================
 
 Creative problem-solving techniques involve using unconventional approaches to generate innovative solutions to problems. In this chapter, we will explore an overview of creative problem-solving techniques, strategies for applying creativity to problem transformation, and how to overcome common challenges.
 
